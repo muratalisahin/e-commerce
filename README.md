@@ -12,8 +12,8 @@
 <li>CSS</li>
 <li>API</li>
 <li>JS</li>
-<br><br>
-# Ekran Görüntüsü 🎥
+<br>
+# Ekran Görüntüsü 🎥<br>
 <video controls src="bandicam 2025-03-05 17-45-22-536-1.mp4" title="Title"></video>
 
 # İletişim 📩
