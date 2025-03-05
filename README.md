@@ -14,7 +14,8 @@
 <li>JS</li>
 <br>
 # Ekran Görüntüsü 🎥<br>
-<video controls src="bandicam 2025-03-05 17-45-22-536-1.mp4" title="Title"></video>
+
+![Uploading bandicam2025-03-0517-45-22-536-ezgif.com-crop.gif…]()
 
 # İletişim 📩
 muratalisahin61@gmail.com
