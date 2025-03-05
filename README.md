@@ -14,7 +14,8 @@
 <li>JS</li>
 <br>
 # Ekran Görüntüsü 🎥<br>
-https://github.com/user-attachments/assets/fc3704b2-2fc8-4cf6-b792-bf6b3c9f0984
+<br>
+![commercegif](https://github.com/user-attachments/assets/8c8a7454-0248-443f-b10f-d50f66fb897c)
 
 
 
