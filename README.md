@@ -14,8 +14,9 @@
 <li>JS</li>
 <br>
 # Ekran Görüntüsü 🎥<br>
+![bandicam2025-03-0517-45-22-536-ezgif com-crop](https://github.com/user-attachments/assets/fc3704b2-2fc8-4cf6-b792-bf6b3c9f0984)
 
-![Uploading bandicam2025-03-0517-45-22-536-ezgif.com-crop.gif…]()
+
 
 # İletişim 📩
 muratalisahin61@gmail.com
